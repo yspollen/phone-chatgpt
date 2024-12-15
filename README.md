@@ -1,6 +1,6 @@
 # Phone with ChatGPT
 
-A simple automated phone service that allows users to ask questions and receive conversational responses powered by ChatGPT. The phone number is not shared publicly, as this is a personal project. 
+A simple automated phone service that allows users to ask questions and receive conversational responses powered by ChatGPT, AWS API Gateway, Lambda, S3, and Twilio. The phone number is not shared publicly, as this is a personal project. 
 
 ---
 
